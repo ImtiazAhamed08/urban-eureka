@@ -1,0 +1,49 @@
+{
+  "career":{
+"info":"A career is an individual's metaphorical journey through learning, work and other aspects of life. There are a number of ways to define career and the term is used in a variety of ways."
+},
+"education":[
+  {
+    "Degree":"S.S.C",
+    "School":"Sister Stanislas Memorial English School",
+    "data":["2004-2013","95%"]
+  },
+  {
+    "Degree":"Intermediate",
+    "School":"Narayana Junior College",
+    "data":["2013-2015","96%"]
+  },
+  {
+    "Degree":"B.Tech",
+    "School":"GPCET",
+    "data":["2015-2019","75%"]
+  }
+],
+"Skills":[
+  {
+    "name":"Languages         ",
+    "info":["R","C#","java"]
+  },
+  {
+    "name":"Operating Systems ",
+    "info":["Linux","Windows10"]
+  },
+  {
+    "name":"Databases         ",
+    "info":["MySQL","Oracle","PDO"]
+  },
+  {
+    "name":"Web Technologies  ",
+    "info":["HTML","CSS","AJAX","PHP"]
+  },
+  {
+    "name":"Framework         ",
+    "info":[".Net","Bootstrap","CodeIgnitor"]
+  },
+  {
+    "name":"Libraries         ",
+    "info":["JQuery"]
+  }
+
+]
+}
